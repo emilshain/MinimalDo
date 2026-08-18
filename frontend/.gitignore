@@ -3,3 +3,9 @@ dist/
 .env
 .env.local
 .DS_Store
+*.md
+DEPLOYMENT*
+README*
+SETUP*
+GUIDE*
+.env.example
