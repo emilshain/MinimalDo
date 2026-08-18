@@ -1,0 +1,8 @@
+*.md
+DEPLOYMENT*
+README*
+SETUP*
+GUIDE*
+.env
+.env.local
+.DS_Store
